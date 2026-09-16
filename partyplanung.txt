@@ -1,4 +1,9 @@
 TODO
 Spiele: Aziz
+<<<<<<< HEAD
 Trinken:
 Snacks:
+=======
+Trinken: Fidan Aziz
+Snacks: Fidan
+>>>>>>> 9647b1d794f71215f1fd3f6b0f99b800f2024bfb
