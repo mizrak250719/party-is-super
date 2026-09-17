@@ -2,16 +2,14 @@ TODO
 Spiele: Aziz
 Trinken:
 Snacks: 
-=======
+
 Trinken: Fidan Aziz
 Snacks: Fidan
 
 Das wird die Beste Party!
 
-<<<<<<< HEAD
-
 Disco Disco Party Disco Disco PArty!!!
 
-=======
 OIDA
->>>>>>> main
+
+OIDA
