@@ -1,5 +1,5 @@
 TODO
-Spiele: Aziz
+Spiele:  Ana, Bob, Werwolf
 Trinken:
 Snacks: Ana, Chips
 
